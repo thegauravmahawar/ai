@@ -16,6 +16,8 @@ There are two types of LLMs (Large Language Models)
 
 Instruction Tuned LLMs use RLHF (Reinforcement Learning with Human Feedback) to make the system better able to learn and follow instructions.
 
+We can tune the output by giving specific prompts and defining the tone of those prompts.
+
 ## Guidelines
 
 ## Iterative
