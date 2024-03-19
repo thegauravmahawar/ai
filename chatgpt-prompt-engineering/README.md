@@ -38,6 +38,8 @@ Boie is a real company, the product name is not real.
 
 ## Iterative
 
+Iteratively analyze and refine your prompts.
+
 ## Summarizing
 
 ## Transforming
